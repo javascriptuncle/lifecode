@@ -1,13 +1,14 @@
 // me defining my work
-life.day = 1;
-life.uncertainity = {
-	unexpectedDay: '!?'
-}
+myLife.day = 1;
+// expecting
+// life.uncertainity = {
+// 	unexpectedDay: '!?'
+// }
 
 for (; ;) {
 	console.log('Post daily 🔥');
 
-	if (life.day == life.uncertainity.unexpectedDay) {
+	if (myLife.day == life.uncertainity.unexpectedDay) {
 		console.log('No Post that day');
 	}
 	
@@ -16,5 +17,5 @@ for (; ;) {
 		console.log('🙏 Stay ❤️ tuned 🙏');
 	}
 
-	life.day += 1;
+	myLife.day += 1;
 }
