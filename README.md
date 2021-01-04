@@ -5,4 +5,4 @@ Daily activities of my life
 	
 	"@ for snippets"
 
-Wrote with ❤️ for Javascript by [Rajat Vishwakarma](https://github.com/rajatJarvis)
+Wrote with ❤️  for Javascript by [Rajat Vishwakarma](https://github.com/rajatJarvis)

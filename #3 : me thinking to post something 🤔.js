@@ -8,7 +8,7 @@ myLife.post = (idea) => {
 }
 
 // my 💓 in loop
-async myLife['🧬'].heart.Beat()
+async myLife['🧬'].heart.Beat();
 
 // my 🧠 in loop
 var ideas = { ...(myLife.everythingISense())};
