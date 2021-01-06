@@ -1,7 +1,7 @@
 # lifecode
 Daily activities of my life
 
-	"# for post"
+	"# for code post"
 	
 	"@ for snippets"
 
